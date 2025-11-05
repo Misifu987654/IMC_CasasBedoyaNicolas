@@ -39,5 +39,7 @@ Ejecutar: Seleccionar un emulador o dispositivo y presionar Run
 <img width="1097" height="616" alt="image" src="https://github.com/user-attachments/assets/67d3379b-8316-4d38-bea1-864ffd9282ce" />
 <img width="1097" height="615" alt="image" src="https://github.com/user-attachments/assets/269316b4-1b3c-4441-a955-face00a3d80b" />
 <img width="1107" height="616" alt="image" src="https://github.com/user-attachments/assets/7315e03c-02de-496b-a60d-17b1dfb3594b" />
+<img width="1357" height="765" alt="image" src="https://github.com/user-attachments/assets/ebb256d1-5fb7-4021-a825-6eebba3ea628" />
+
 
 
